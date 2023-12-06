@@ -83,6 +83,13 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "",
+      "description": "Little cab, to Moringa School",
+      "category": "Transportation",
+      "amount": "200",
+      "id": 13
     }
   ]
 }
